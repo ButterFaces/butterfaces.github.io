@@ -17,6 +17,7 @@ ButterFaces stands under [MIT License](http://opensource.org/licenses/MIT). So f
 
 Next steps?
 =======
+* [Getting started](getting_started.md)
 * [Configuration](configuration.md)
 * [PrimeFaces integration](primefaces_integration.md)
 * [BootsFaces integration](bootsfaces_integration.md)
