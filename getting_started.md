@@ -2,7 +2,7 @@
 
 ## Install ButterFaces as maven dependency
 
-ButterFaces is accessible by [maven central repository]('http://search.maven.org/#search/ga|1|butterfaces'). Add following dependency to use components for each JSF implementation \(i.e. MyFaces\).
+ButterFaces is accessible by [maven central repository](http://search.maven.org/#search/ga\|1\|butterfaces). Add following dependency to use components for each JSF implementation \(i.e. MyFaces\).
 
 ```xml
 <dependency>
