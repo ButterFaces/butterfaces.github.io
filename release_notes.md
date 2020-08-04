@@ -4,6 +4,7 @@ This page contains the important feature changes.
 
 | version | new stuff |
 | -- | -- | 
+| 3.4.1 | Upgrade Bootstrap from 4.5.0 to 4.5.1 | 
 | 3.4.0 | Upgrade Bootstrap from 4.4.1 to 4.5.0 | 
 | 3.3.3 | Increase javascript and css resource compression | 
 | 3.3.2 | Fixed issue #263 (TreeBox does not work after update dependency) |
