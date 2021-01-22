@@ -4,6 +4,7 @@ This page contains the important feature changes.
 
 | version | new stuff |
 | -- | -- | 
+| 3.5.0 | <ul><li>Upgrade Bootstrap from 4.5.2 to 4.6.0</li><li>Replace popper.js by @popperjs/core</li></ul> | 
 | 3.4.2 | Upgrade Bootstrap from 4.5.1 to 4.5.2 | 
 | 3.4.1 | Upgrade Bootstrap from 4.5.0 to 4.5.1 | 
 | 3.4.0 | Upgrade Bootstrap from 4.4.1 to 4.5.0 | 
