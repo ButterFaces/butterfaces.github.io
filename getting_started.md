@@ -8,7 +8,7 @@ ButterFaces is accessible by [maven central repository](http://search.maven.org/
 <dependency>
     <groupId>org.butterfaces</groupId>
     <artifactId>components</artifactId>
-    <version>3.4.2</version>
+    <version>3.5.0</version>
 </dependency>
 ```
 
